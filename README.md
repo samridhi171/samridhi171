@@ -2,7 +2,7 @@
   <h1> 🌌 SAMRIDHI // SYSTEM ARCHIVE </h1>
   <p><i>"Building digital ecosystems one commit at a time."</i></p>
 
-  <img src="https://skillicons.dev/icons?i=js,python,react,threejs,figma,tailwind,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,figma,tailwind,mongodb" />
   
   <br/>
   <br/>
