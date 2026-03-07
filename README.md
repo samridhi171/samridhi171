@@ -14,9 +14,9 @@
 
 ### 📡 CURRENT_STATUS
 
-* 🔭 **Working on:** [Name of your main project or goal]
-* 🌱 **Learning:** [A specific library, language, or concept]
-* ⚡ **Focus:** Optimizing performance and clean architecture.
+* 🔭 **Working on:** Architecting a Mini-Exchange engine focused on low-latency transaction processing.
+* 🌱 **Learning:** Deep-diving into Distributed Systems and advanced Concurrency Patterns.
+* ⚡ **Focus:** Turning complex problems into simple, efficient solutions.
 
 ---
 
