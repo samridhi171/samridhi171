@@ -1,14 +1,14 @@
 <div align="center">
-  <h1> 🌌 [YOUR NAME] // SYSTEM ARCHIVE </h1>
+  <h1> 🌌 SAMRIDHI // SYSTEM ARCHIVE </h1>
   <p><i>"Building digital ecosystems one commit at a time."</i></p>
 
-  <img src="https://skillicons.dev/icons?i=js,python,react,threejs,figma,tailwind,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,threejs,figma,tailwind,mongodb" />
   
   <br/>
   <br/>
 
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=CONNECTIONS&style=for-the-badge&color=000&labelColor=333" />
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=STARS&style=for-the-badge&color=000&labelColor=333" />
+  <img src="https://img.shields.io/github/followers/samridhi171?label=CONNECTIONS&style=for-the-badge&color=000&labelColor=333" />
+  <img src="https://img.shields.io/github/stars/samridhi171?label=STARS&style=for-the-badge&color=000&labelColor=333" />
 </div>
 
 ---
