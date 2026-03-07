@@ -1,30 +1,42 @@
-# Hi there! I'm Samridhi 👋
+<div align="center">
+  <h1> 🌌 [YOUR NAME] // SYSTEM ARCHIVE </h1>
+  <p><i>"Building digital ecosystems one commit at a time."</i></p>
 
-### ⚡ Creative Developer | Lifelong Learner
+  <img src="https://skillicons.dev/icons?i=js,python,react,threejs,figma,tailwind,mongodb,aws" />
+  
+  <br/>
+  <br/>
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Building+cool+stuff;Learning+new+tech;Coffee+enthusiast" alt="Typing SVG" />
+  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=CONNECTIONS&style=for-the-badge&color=000&labelColor=333" />
+  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=STARS&style=for-the-badge&color=000&labelColor=333" />
+</div>
+
+---
+
+### 📂 CURRENT_PROJECTS.exe
+
+| Status | Project | Description |
+| :--- | :--- | :--- |
+| 🛠️ | **Project Alpha** | Replace this with your coolest current project. |
+| 🧪 | **Neural-Lab** | Experimenting with AI-driven UI components. |
+| 📦 | **Utility-UI** | A custom component library for React. |
+
+---
+
+### 📈 SYSTEM_ACTIVITY
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Language/Tool]**
-- 💬 Ask me about **[Topic you love]**
-- 📫 How to reach me: **[Your Email/Twitter]**
-
-### 🛠️ My Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.”*
+### ⚡ TERMINAL_INFO
+```zsh
+> locate developer
+  location: [City, Planet Earth]
+> status
+  current_focus: "Learning Advanced Backend Systems"
+  open_for_collaboration: true
+> contact
+  email: "hello@yourdomain.com"
+  linkedin: "in/yourprofile"
