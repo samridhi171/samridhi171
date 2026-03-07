@@ -7,25 +7,22 @@
   <br/>
   <br/>
 
-  <img src="https://img.shields.io/github/followers/samridhi171?label=CONNECTIONS&style=for-the-badge&color=000&labelColor=333" />
-  <img src="https://img.shields.io/github/stars/samridhi171?label=STARS&style=for-the-badge&color=000&labelColor=333" />
+  
 </div>
 
 ---
 
-### 📂 CURRENT_PROJECTS.exe
+### 📡 CURRENT_STATUS
 
-| Status | Project | Description |
-| :--- | :--- | :--- |
-| 🛠️ | **Project Alpha** | Replace this with your coolest current project. |
-| 🧪 | **Neural-Lab** | Experimenting with AI-driven UI components. |
-| 📦 | **Utility-UI** | A custom component library for React. |
+* 🔭 **Working on:** [Name of your main project or goal]
+* 🌱 **Learning:** [A specific library, language, or concept]
+* ⚡ **Focus:** Optimizing performance and clean architecture.
 
 ---
 
 ### 📈 SYSTEM_ACTIVITY
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samridhi171&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -33,10 +30,10 @@
 ### ⚡ TERMINAL_INFO
 ```zsh
 > locate developer
-  location: [City, Planet Earth]
+  location: Kalyani, West Bengal
 > status
-  current_focus: "Learning Advanced Backend Systems"
+  current_focus: "Refining the Stack"
   open_for_collaboration: true
 > contact
-  email: "hello@yourdomain.com"
-  linkedin: "in/yourprofile"
+  email: "samridhimukhopadhyay@gmail.com"
+  linkedin: "https://www.linkedin.com/in/samridhi-mukhopadhyay/"
