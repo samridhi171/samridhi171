@@ -20,13 +20,6 @@
 
 ---
 
-### 📈 SYSTEM_ACTIVITY
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samridhi171&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 ### ⚡ TERMINAL_INFO
 ```zsh
 > locate developer
